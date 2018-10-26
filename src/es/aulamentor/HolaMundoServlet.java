@@ -18,7 +18,7 @@ public class HolaMundoServlet extends HttpServlet {
       out.println("<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\">");
       out.println("<HTML>");
       out.println(" <HEAD>");
-      out.println(" <TITLE>Hola mundo nuevo!</TITLE>");
+      out.println(" <TITLE>Hola mundo nuevo 2!</TITLE>");
       out.println(" </HEAD>");
       out.println(" <BODY>");
       out.println(" Hola Mundo!");
